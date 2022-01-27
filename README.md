@@ -23,6 +23,12 @@ What you are looking for:
 - Documentation.
 - Unit tests.
 ### How To Run
+-  Install Dependencies
+
+    ```sh
+      composer install
+      npm i
+    ```
 -  Run Test(test add fake data and db will refresh after test finished)
 
     ```sh
